@@ -1,3 +1,10 @@
+## [5.0.27](https://github.com/semantic-release-action/github-actions/compare/v5.0.26...v5.0.27) (2025-12-01)
+
+
+### Bug Fixes
+
+* create sliding tag on prereleases ([18533ba](https://github.com/semantic-release-action/github-actions/commit/18533ba5a07b3a01da56034ffe5cd69d696912d7))
+
 ## [5.0.26](https://github.com/semantic-release-action/github-actions/compare/v5.0.25...v5.0.26) (2025-02-24)
 
 
